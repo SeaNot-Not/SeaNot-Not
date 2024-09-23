@@ -9,9 +9,9 @@ const greetings = (visitor) => visitor === 'C...' ? 'Hello my love!' : 'Hi there
 const aboutMe = {
   name: 'Sean',
   code: [C, Visual Basic, Java, Javascript, HTML, CSS],
-  tools: [React, Tailwind]
-  currentLearning: [HTML, CSS, Javascript, React, Tailwind]
-  currentChallenge: 'Learn and become a Front-end Web Developer'
+  tools: [React, Tailwind],
+  currentLearning: [HTML, CSS, Javascript, React, Tailwind],
+  currentChallenge: 'Learn and become a Front-end Web Developer',
 }
 ```
 <p><b>I'am happy making new friends!</b> so if you're interested don't hesitate to message me!</p>
