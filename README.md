@@ -3,6 +3,7 @@ const greetings = (visitor) => visitor === 'C...' ? 'Hello my love!' : 'Hi there
 ```
 
 <p><em>Information Technology student at <a href="https://cdsga-system.com/website/site/">Colegio de San Gabriel Arcangel</a></em></p>
+<img align='right' src="https://i.pinimg.com/736x/5a/3f/0e/5a3f0eef6ca2eccc20d4797acaa6f977.jpg" width="180">
 
 ```javascript
 const aboutMe = {
@@ -14,5 +15,5 @@ const aboutMe = {
 }
 ```
 <p><b>I'am happy making new friends!</b> so if you're interested don't hesitate to message me!</p>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGwzemhwYzNuYnhpdG9udGE4Y3B0b2h2OGtybzdja21uNmNyd2E5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aMwdfGSyeYjUKY6vjf/giphy.webp" width="230">
+
 ---
