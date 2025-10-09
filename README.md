@@ -5,7 +5,7 @@ const greetings = (visitor) => `Hello ${visitor}!`
 ```javascript
 const aboutMe = {
   name: 'Sean Cortez',
-  description: `Fresh BSIT Graduate and Junior Developer who loves to take on new challenges, learn new technologies, and contribute to impactful projects.`
+  description: `Fresh BSIT Graduate and Junior Developer who loves to take on new challenges, learn new technologies, and contribute to impactful projects.`,
   education: 'BS in Information Technology, Colegio de San Gabriel Arcangel',
   code: ['JavaScript', 'Java', 'C', 'Visual Basic', 'HTML', 'CSS'],
   tools: ['React', 'TailwindCSS', 'Node.js', 'Express.js', 'MongoDB'],
