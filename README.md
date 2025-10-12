@@ -17,7 +17,7 @@ const aboutMe = {
       'Dental Reservation System (Java + MySQL)'
     ],
   },
-  currentLearning: ['MERN Stack', 'React Best Practices'],
+  currentLearning: 'Typescript',
   goal: 'To start my career as a Junior Developer and keep improving my skills.',
 }
 ```
